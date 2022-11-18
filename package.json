@@ -18,7 +18,7 @@
     "react-dom": "^16.8.6",
     "react-mdl": "^1.11.0",
     "react-router-dom": "^5.0.0",
-    "react-scripts": "2.1.8",
+    "react-scripts": "5.0.1",
     "react-select": "^2.4.3",
     "react-validation": "^3.0.7",
     "reactstrap": "^8.0.0",
